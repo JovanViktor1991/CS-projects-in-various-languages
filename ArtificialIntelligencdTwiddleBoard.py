@@ -1,7 +1,7 @@
 """
 Author: Viktor Jovanovic
 
-File: HW1.py
+File: ArtificialIntelligenceTwiddleBoard.py
 
 Description: Twiddle board, a program that finds solution to a nine integer input.
 """
